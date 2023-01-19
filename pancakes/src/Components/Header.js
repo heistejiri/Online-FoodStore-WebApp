@@ -43,7 +43,7 @@ function Header() {
             alt=""
           />
         </div>
-        <h2 className="userName">Vetrivel Ravi</h2>
+        <h2 className="userName">Oghenetejiri Agoro</h2>
       </div>
 
       <div className="toggleMenu">
