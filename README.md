@@ -3,7 +3,6 @@
 Stack 
 Html
 Css
-Js
 
 
 More readme files loading...
