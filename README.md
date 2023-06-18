@@ -2,7 +2,6 @@
 
 ⭕ **This Site is Fully Responsive**
 <br>
-<br>
 
 ## 📌 **Live Site URL:** <a href="https://food-store-ecommerce.netlify.app/">**Visit Now** 🚀</a>
 
